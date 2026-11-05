@@ -63,6 +63,13 @@ Halo! Saya adalah pegiat **Arsitektur dan Desain Grafis** yang berfokus pada per
 
 Dalam setiap proses perancangan, pendekatan diawali dengan analisis tapak (*Site Analysis*) mendalam untuk memastikan bangunan responsif terhadap lingkungan:
 
+<div align="center">
+  <br/>
+  <img src="./gambar1.png" alt="Diagram Analisis Site dan Konsep Perancangan" width="85%" />
+  <p><i>📐 Diagram Analisis Site, Orientasi Massa & Respon Lingkungan</i></p>
+  <br/>
+</div>
+
 | Aspek Analisis | Deskripsi & Pendekatan | Output Visual |
 | :--- | :--- | :--- |
 | ☀️ **Klimatologi & Orientasi** | Analisis lintasan matahari (*Sun Path*), arah angin dominan, dan bayangan musiman. | Diagram Isometrik Matahari & Angin |
